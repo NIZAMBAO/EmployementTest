@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125198349668",
+    "firebase_url": "https://communicationchannels-2d7a4.firebaseio.com",
+    "project_id": "communicationchannels-2d7a4",
+    "storage_bucket": "communicationchannels-2d7a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125198349668:android:c7e0ae72bec9a8744a3671",
+        "android_client_info": {
+          "package_name": "com.jasbir.communication_channels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125198349668-sruedianbmdrjcvlk3am7i2527lke3dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jasbir.communication_channels",
+            "certificate_hash": "bf198eefdf34f4aa73713ce1e4541a893212e15c"
+          }
+        },
+        {
+          "client_id": "125198349668-ispqtet8on23hqs0h14q826mjr604tp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5jVzKIe3uRBQ8SbTbjAB_E4FCTbiv9x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125198349668-ispqtet8on23hqs0h14q826mjr604tp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
